@@ -3,7 +3,7 @@ import java.util.*;
 public class LIST {
     public static void main(String[] args) {
         List<String> names = new ArrayList<>();
-
+            // wrapper classess
         names.add("Himanshu");
         names.add("Raman");
         names.add(1, "Ankit");  // Insert at index 1
