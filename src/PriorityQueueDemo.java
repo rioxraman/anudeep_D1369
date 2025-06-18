@@ -24,6 +24,7 @@ public class PriorityQueueDemo {
         queue.add("himanushu Tripathi");
         queue.add("kHhushi sharma ");
         queue.add("abjisjek shani");
+        queue.add("abjisjek ssdahani");
 
         System.out.println(queue);
 

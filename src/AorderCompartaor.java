@@ -7,3 +7,4 @@ public class AorderCompartaor implements Comparator<String> {
 
     }
 }
+//comparable
